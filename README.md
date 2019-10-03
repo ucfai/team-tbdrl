@@ -3,7 +3,7 @@ Welcome! Our team's main objective is to explore the area of reinforcement learn
 environmental building tools like like Unity and OpenAI's Gym.
 
 ### Current Projects
-- [Where's my money?](https://www.kaggle.com/jordanstarkey/tbdrl-money/edit)
+- Kaggle: [Where's my money?](https://www.kaggle.com/jordanstarkey/tbdrl-money/edit)
 - [Ball Balancing](https://youtu.be/-YWts_GlHCY)
     - [Tutorial](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Getting-Started-with-Balance-Ball.md)
 
@@ -20,4 +20,5 @@ Day     |   Time                |   Location
 --------|-----------------------|-------------
 Monday  |   6:00 PM - 8:00 PM   |   tbd
 Tuesday |   4:30 PM - 7:00 PM   |   tbd
+
 Scheduler: [When2Meet](https://www.when2meet.com/?8183451-lczMg)
