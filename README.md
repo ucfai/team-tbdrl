@@ -2,8 +2,8 @@
 Welcome! Our team's main objective is to explore the area of reinforcement learning via
 environmental building tools like like Unity and OpenAI's Gym.
 
-### Current Projects
-- Kaggle: [Where's my money?](https://www.kaggle.com/jordanstarkey/tbdrl-money/edit)
+### Projects
+- [Where's my money?](https://www.kaggle.com/jordanstarkey/tbdrl-money/edit)
 - [Ball Balancing](https://youtu.be/-YWts_GlHCY)
     - [Tutorial](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Getting-Started-with-Balance-Ball.md)
 
@@ -17,8 +17,10 @@ environmental building tools like like Unity and OpenAI's Gym.
 - [Gym OpenAI](https://gym.openai.com/docs/)
 - Unity
     1. [Download Unity](https://store.unity.com/download-nuo)
-    2. [Download ML-Agents](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md)
-    3. [Docs](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Readme.md)
+    1. [Download ML-Agents](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md)
+    1. [Docs](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Readme.md)
+- [Hackpack](https://github.com/ucfai/hackpack)
+- [Core](https://github.com/ucfai/core)
 
 ### Tentative Meeting Schedule
 Day     |   Time                |   Location
